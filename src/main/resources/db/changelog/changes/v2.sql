@@ -1,0 +1,1 @@
+insert into person (id, name, address) values(1, 'Tom', 'USA');
